@@ -7,8 +7,7 @@
 - The model is as follows:
 ![model](./screenshots/multi_inputs.png)
 - Loss and Accuracy plots: 
-![loss](./screenshots/loss.JPG)
-![acc](./screenshots/accuracy.JPG)
+![loss](./screenshots/loss.JPG) ![acc](./screenshots/accuracy.JPG)
 
 ## Accessing model layers
 - I first loaded a pre-trained model called vgg19
