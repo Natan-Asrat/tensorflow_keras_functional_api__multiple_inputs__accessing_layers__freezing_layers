@@ -7,6 +7,7 @@
 - The model is as follows:
 ![model](./screenshots/multi_inputs.png)
 - Loss and Accuracy plots: 
+
 ![loss](./screenshots/loss.JPG) ![acc](./screenshots/accuracy.JPG)
 
 ## Accessing model layers
