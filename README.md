@@ -1,3 +1,5 @@
+Blog: https://natanasrat.com/blog/keras-functional-api-for-multiple-inputs-and-outputs-accessing-model-layers-and-freezing-layers/
+
 # Keras Functional API for Multiple Inputs and Outputs, Accessing Model Layers and Freezing Layers
 - In this project, i explore the keras functional api by accomplishing three tasks concerned with customizing models.
 - You can get the code in [tensorflow_multiple_inputs.ipynb](./tensorflow_multiple_inputs.ipynb)
